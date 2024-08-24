@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1724478845 source:c:\users\pc\desktop\task 4 banking system\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<stdexcept>
+
