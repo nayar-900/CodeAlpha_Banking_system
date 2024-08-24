@@ -1,0 +1,1 @@
+During my Code Alpha internship, I designed and developed a console-based banking system in C++. This application effectively handles transactions, account information, and user interactions, demonstrating my proficiency in C++ programming and my capability to create secure, user-centered financial software solutions.
